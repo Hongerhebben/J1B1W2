@@ -1,4 +1,7 @@
-alert("U dient 3 vragen te beantwoorden")
+
+const vragen = "U dient 3 vragen te beantwoorden"
+alert(vragen)
+
 
 var test = prompt("Wat is uw voornaam?");
 var test1 = prompt("Wat is uw achternaam?");
