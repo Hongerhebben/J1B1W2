@@ -1,5 +1,22 @@
 const requirement = alert ("welkome bij de game");
 const mesage1 = alert ("je moet alle vragen met 1 of 2 beantwoorden");
+
+var age = prompt("De minimale leeftijd is 18 jaar, hoe oud ben je?")
+if (age <= 18){ 
+alert ("helaas je bent te jong, kom terug als je ouder ben.")};
+if (age >= 18){
+
+
+var zin = prompt("geef aan hoeveel zin je hebt in deze game met een getal tussen de 0 en de 10!")}
+if (zin >= 10){ 
+document.write("er is iets mis gegaan, probeer het opnieuw.")}
+if (zin <= 10){
+	alert("succes met de game!")
+
+	
+
+
+
 const mmesage1 = alert ("De game begintt..");
 const  mesage2 = alert("Je ligt in bed en je droomt");
 const mesage3 = alert("Je droomt over school en dat er brand is, jij bent de enigste die het ziet maar wat doe je?");
@@ -80,4 +97,4 @@ if (bed == "2"){
 			document.write("Gefeliciteerd! Je werd wakker")}
 		if (ren3 == "2"){
 			const patat2 = alert("Je eet je patat, maar dan....")
-			document.write("Helaas.. Je bent gestikt in een frietje.")}
+			document.write("Helaas.. Je bent gestikt in een frietje.")}}
