@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+
+    }
+p {
+    font-size: 20px
+
+    }
+h1 {
+    font-size: 32px
+    }
+h2 {
+    font-size: 24px
+    }
+
+.help {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 5px;
+    min-height: 1000px;
+    text-align: left;
+    background-color: white;
+    font-family: roboto;
+
+
+}
+img {
+    float: left;
+
+}
+.tip {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 5px;
+    background-color: #def6ed ; 
+    min-height: 40px;
+    }
+
+.lol {
+width: 70%;
+}
+.lol2 {
+width: 70%;
+}
